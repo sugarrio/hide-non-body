@@ -5,8 +5,7 @@
 ## 対応予定
 
 - Blender 2.79
-- Blender 2.80以降
-- Blender 3.x / 4.x / 5.x
+- Blender 4.2 / 5.1
 
 ## 動作
 
