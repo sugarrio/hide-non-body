@@ -26,7 +26,7 @@ Releasesよりzipファイルをダウンロードしてご利用ください。
 
 1. Blenderの「編集 → プリファレンス → アドオン」を開く
 2. 「インストール」または「ディスクからインストール」を選ぶ
-3. `hide_non_body.py` を選択する
+3. `hide_non_body_addon.zip` を選択する
 4. `Hide Selected Non-Body Objects` を有効にする
 
 ## ボタンの場所
